@@ -3,27 +3,27 @@
 My practice on "A collection of take home chellenges".
 
 Summary:
-1. ConversionRate
+1. Conversion Rate
 
- - Analyse the ages, countries and etc. for the conversion rate
+ - Website conversion rate analysis
 
-2. SpanishTranslationABTest
+2. Spanish Translation AB Test
 
  - A/B Test
  - Dealing with datetime
 
-3. EmployeeRetention
+3. Employee Retention
 
  - Random Forest and its visualization
 
-4. IdentifyingFraudulentActivities
+4. Identifying Fraudulent Activities
 
  - Dealing with datetime
- - XGB, cross_validation
- - Random ForestTreeClassifier
+ - XGBoost, cross_validation
+ - Random Forest TreeClassifier
  - Feature Importance
 
-5. FunnelAnalysis
+5. Funnel Analysis
 
  - Coversion ratio calculation
  - DataFrame manipulation
