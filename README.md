@@ -27,6 +27,11 @@ Summary:
 
  - Coversion ratio calculation
  - DataFrame manipulation
+ 
+ 6. Pricing Test
+ 
+  - AB test
+   - Conversion rate visualization
 
 References:
  - https://github.com/stasi009/TakeHomeDataChallenges
