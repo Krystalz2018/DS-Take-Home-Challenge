@@ -32,13 +32,13 @@
 ## 6. Pricing Test
  
   - AB test
-   - Conversion rate visualization
+  - Conversion rate visualization
    
 ## 7. Marketing Email Campaign
  
   - Confusion Matrix
   - Random Forest Classifier
  
- References:
+#### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
