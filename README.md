@@ -2,7 +2,7 @@
 
 # My practice on "A collection of take home chellenges".
 
-# Summary:
+## Summary:
 
 ## 1. Conversion Rate
 
@@ -41,7 +41,7 @@
 
 ## 8. Song Challenge
  
-  - Deal with Json file
+  - Deal with JSON file
   - Groupby and DataFrame manipulation
   - Recommendation Model using KNN
   
