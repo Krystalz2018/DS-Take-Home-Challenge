@@ -38,7 +38,13 @@
  
   - Confusion Matrix
   - Random Forest Classifier
+
+## 8. Song Challenge
  
+  - Deal with Json file
+  - Groupby and DataFrame manipulation
+  - Recommendation Model using KNN
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
