@@ -45,6 +45,11 @@
   - Groupby and DataFrame manipulation
   - Recommendation Model using KNN
   
+## 9. Cluster Grocery
+ 
+  - Parse columns with multiple values
+  - KMeans clustering and visualization
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
