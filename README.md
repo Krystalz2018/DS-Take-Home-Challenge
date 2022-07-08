@@ -50,6 +50,10 @@
   - Parse columns with multiple values
   - KMeans clustering and visualization
   
+## 11. User Referral Program
+ 
+  - A/B test
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
