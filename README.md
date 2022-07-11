@@ -50,6 +50,11 @@
   - Parse columns with multiple values
   - KMeans clustering and visualization
   
+## 10. Credit Card Transactions
+ 
+  - Functions to detect credit fraud
+  - Analysis of credit limit
+  
 ## 11. User Referral Program
  
   - A/B test
