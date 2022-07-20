@@ -59,6 +59,11 @@
  
   - A/B test
   
+## 12. Loan Granting
+ 
+  - Grandient Boosting vs Random Forest vs Logistic Regression
+  - Hyperparameter Tuning
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
