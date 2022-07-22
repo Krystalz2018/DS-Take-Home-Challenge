@@ -64,6 +64,11 @@
   - Grandient Boosting vs Random Forest vs Logistic Regression
   - Hyperparameter Tuning
   
+## 13. JSON City Similarity
+ 
+  - Dealing with JSON file
+  - Create City Similarity Matrix
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
