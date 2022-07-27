@@ -69,6 +69,10 @@
   - Dealing with JSON file
   - Create City Similarity Matrix
   
+## 14. Optimization of employee shuttle stops
+ 
+  - Using googlemap to measure the shortest distance
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
