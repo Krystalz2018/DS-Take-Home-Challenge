@@ -73,6 +73,11 @@
  
   - Using googlemap to measure the shortest distance
   
+## 15. Diversity in the workplace
+ 
+  - Defined functions to calculate the nuber of employees in different levels
+  - Utilized GBM for salary prediction and feature importance
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
