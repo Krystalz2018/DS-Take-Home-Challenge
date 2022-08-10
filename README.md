@@ -78,6 +78,11 @@
   - Defined functions to calculate the nuber of employees in different levels
   - Utilized GBM for salary prediction and feature importance
   
+## 16. URL parsing challenge
+ 
+  - Reading TXT file and transform to pandas dataframe
+  - Using Groupby function and defined algorithms
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
