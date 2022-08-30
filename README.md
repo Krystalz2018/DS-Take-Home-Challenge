@@ -83,6 +83,11 @@
   - Reading TXT file and transform to pandas dataframe
   - Using Groupby function and defined algorithms
   
+## 17. Engagement Test
+ 
+  - Student's t-test
+  - A/B testing and its visualization
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
