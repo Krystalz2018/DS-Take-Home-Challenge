@@ -88,6 +88,11 @@
   - Student's t-test
   - A/B testing and its visualization
   
+## 18. Online Video Challenge
+ 
+  - Defined functions to identify video categories
+  - Utilize video categories to provide product suggestions
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
