@@ -93,6 +93,11 @@
   - Defined functions to identify video categories
   - Utilize video categories to provide product suggestions
   
+## 19. Subscription Retention Rate
+ 
+  - Defined functions to calculate each group's retention rate
+  - Utilized log and exp function to predict the results and fit linear regression model
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
