@@ -98,6 +98,11 @@
   - Defined functions to calculate each group's retention rate
   - Utilized log and exp function to predict the results and fit linear regression model
   
+## 20. Ads Analysis
+ 
+  - Time series analysis on the ads trend
+  - Visualization of clustering results
+  
 #### References:
  - https://github.com/stasi009/TakeHomeDataChallenges
  - https://github.com/JifuZhao/DS-Take-Home
